@@ -200,7 +200,7 @@ int check_elf(char *ptr)
 }
 
 /**
- * main - check the code for Alx School students.
+ * main - check the code for ELF.
  * @argc: number of arguments.
  * @argv: arguments vector.
  * Return: Always 0.
