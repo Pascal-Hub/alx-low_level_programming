@@ -200,7 +200,7 @@ int check_elf(char *ptr)
 }
 
 /**
- * main - check the code for Holberton School students.
+ * main - Displays the information contained in the ELF header at the start of the ELF file.
  * @argc: number of arguments.
  * @argv: arguments vector.
  * Return: Always 0.
