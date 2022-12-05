@@ -200,7 +200,7 @@ int check_elf(char *ptr)
 }
 
 /**
- * main - Displays the information contained in the ELF header at the start of the ELF file.
+ * main - check the code for Alx School students.
  * @argc: number of arguments.
  * @argv: arguments vector.
  * Return: Always 0.
